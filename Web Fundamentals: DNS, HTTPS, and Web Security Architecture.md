@@ -147,7 +147,7 @@ The **Hypertext Transfer Protocol (HTTP)** is an application-layer request-respo
 
 A Uniform Resource Locator (URL) combines protocol, addressing, network port, path, and runtime parameters:
 
-$$\text{\texttt{[https://admin:SecretPass123@example.com:8080/v1/users/view?id=105](https://admin:SecretPass123@example.com:8080/v1/users/view?id=105)\&format=json\#profile}}$$
+https://admin:SecretPass123@example.com:8080/v1/users/view?id=105)\&format=json\#profile
 
 ```
 +-----------+----------------------+--------------------+-------+--------------------+-------------------------+----------+
