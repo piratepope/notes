@@ -1,0 +1,76 @@
+28 Sep 26
+
+CC-IN-010	Commando 7	commando7@cc.com		WPrbSK7ke3	CC-B01-28092026	B03-0007    Adarsh Kumar Pandey
+
+1. Conversion , requirement for conversion . Binary to Understanding of machine 
+2. ASCII - Table for character mapping and conversion 
+3. MAC address :  Media Access control - Machine address - Hexa Decimal 48 Bit address . Why hexa decimal is used ?
+4.  IP address - TCP IP -IP addressing - Network Layer-Public and Private Network- classes of ip address.
+5. Firewall - inbound and outbound rules .
+6. APIPA - Range 169.254.0.0-169.254.254.254 
+7. Difference Public and Private IP Address - 
+    1. Private Range (Class A)10.0.0.0-10.255.255.255 
+    2. Public 172.16.0.0- 
+    3. Class-full and classless IP Address  - 192.168.1.24/24 is Classfull and 192.168.1.0/25 is classless. Netmask , subnet mask.
+    4. ￼
+    5. Test 
+        1. 10.23.4.5/24 Private Class A Classless
+        2. 172.32.22.33/18 Public Class B Classless
+        3. 192.168.212.22/24 Private Class C Classfull
+        4. 192.16.1.1 /24  Public  Class C Classfull
+        5. 192.169.1.1/16  Public Class C Classless 
+        6. 177.15.16.1/24  Public Class B Classless
+        7. 210.192.168/29 Public Class C Classless 
+8. TCP-IP model and OSI Model:
+    1. OSI Model : Developed by ISO - Open system Interconnection 
+        1. For standard model
+        2. Layers
+            1. Physical Layer : BIT- 
+            2. Data Link Layer : Frames
+            3. Network  Layer: Packets
+            4. Transport Layer : Segments
+            5. Session Layer : Data
+            6. Application Layer : Data
+            7. Presentation Layer :Data
+    2. TCP/IP : Department of Defense - Transmission Control Protocol and IP 
+        1. Data
+        2. Network
+        3. Transport / Internet
+        4. Application
+9. Subnetting 
+10. ￼
+    1. Example for 4 Network in 192.168.1.0 
+        1. n= 2 at 2^n=4 
+        2. Block Size = 64
+        3. Subnet Mask = 255.255.255.192 so network is 192.168.1.0/2
+29 Sep 2026
+
+
+1. Hybrid subnetting : 
+    1. 10.10.1.2/24 -> 4 network 
+        1. 10.10.1.2/25 -> 10.10.1.0-63, 10.10.1.64-127-10.10.1.128-191, 10.10.1.192-255 
+2. Web Application : Application that run on web 
+    1. Front End 
+    2. Back End 
+3. Web server
+4. Windows Server/ Administrator
+    1. Domain controller 
+    2. DNS 
+5. Linux Server
+
+29 Sep 26
+1. Hacking Methodology 
+
+    1. Gathering Info 
+    2. Enumeration 
+    3. Vuln Anaysis 
+    4. Gaining Access
+    5.  Post Exploit / Priv Esc
+1.  netcraft 
+2. Robots.txt
+
+
+
+
+Adavce IP scanner : compliant 
+
