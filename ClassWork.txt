@@ -76,8 +76,11 @@ CC-IN-010	Commando 7	commando7@cc.com		WPrbSK7ke3	CC-B01-28092026	B03-0007    Ad
 1. Adavce IP scanner : compliant software , brief introduction 
 2. Tool to be used 
     2.1 Network Discovery & Port Scanning :Directory and file brute-forcing, virtual host (vhost) fuzzing, CMS enumeration, web technology stack fingerprinting, parameter discovery
-        2.1.1  Nmap, RustScan, Masscan, Netcat
+        2.1.1  Nmap, RustScan, Masscan, Netcat, Netdiscover, Advance ip Scanner , dimitri, Shodan.io, Maltego
     2.2. Web Application Enumeration : Null/anonymous session querying, user enumeration via mail commands, SNMP MIB tree walking, RPC endpoint mapping
         2.2.1 enum4linux-ng, smbclient, smbmap, rpcclient, snmpwalk, snmp-check, smtp-user-enum
     2.3    Active Directory (AD) Enumeration
         2.3.1 Passive & OSINT Reconnaissance:Google Dorks, Wayback Machine, GitHub, crt.sh, Whois
+
+3. smbclient -L //ipaddress/ # can do anonymous 
+4. 
