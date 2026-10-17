@@ -1,22 +1,3 @@
-I’ll read the uploaded write-ups for enumeration sections and consolidate all Phase 1 commands and findings into one combined reference.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Combined Pentest Holy Grail — Phase 1: Enumeration
@@ -27,8 +8,6 @@ It is organized **strictly by port and service**, with:
 - what to look for
 - notable findings / patterns
 - reusable enumeration logic
-
-This is meant to function like a **field playbook**, not a narrative.
 
 ---
 
